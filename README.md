@@ -22,6 +22,26 @@ HemoSync is a proof-of-concept healthcare innovation designed to support precisi
 ### Technology Readiness Level
 TRL 3 – Experimental Proof of Concept
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login_page.png)
+
+### Patient Details Form
+![Patient Form](screenshots/patient_details_form.png)
+
+### Dashboard
+![Dashboard](screenshots/results_dashboard.png)
+
+### Confidence Graph
+![Graph](screenshots/confidence_graph.png)
+
+### AI Chatbot
+![AI Chatbot](screenshots/AI_chatbot.png)
+
+### History Page
+![History](screenshots/history_page.png)
+
 ### Future Scope
 - Hospital Information System integration
 - Reinforcement Learning optimization
