@@ -22,7 +22,7 @@ HemoSync is a proof-of-concept healthcare innovation designed to support precisi
 ### Technology Readiness Level
 TRL 3 – Experimental Proof of Concept
 
-## Screenshots
+### Screenshots
 
 ### Login Page
 ![Login Page](screenshots/login_page.png)
