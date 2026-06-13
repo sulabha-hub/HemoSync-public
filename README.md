@@ -39,7 +39,7 @@ TRL 3 – Experimental Proof of Concept
 ### History Page
 ![History](screenshots/history_page.png)
 
-### Future Scope
+## Future Scope
 - Hospital Information System integration
 - Reinforcement Learning optimization
 - Clinical validation using real-world datasets
