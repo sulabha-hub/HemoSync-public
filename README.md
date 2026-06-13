@@ -1,7 +1,4 @@
 # HemoSync - Blood Transfusion Decision Support System
-AI-driven stochastic clinical decision support system for precision RBC transfusion with simulation-based recommendations, safety scoring, and explainable insights.
-
-### Overview
 HemoSync is a proof-of-concept healthcare innovation designed to support precision RBC transfusion decisions. The system uses stochastic simulation to generate multiple transfusion scenarios, evaluates safety through confidence-based scoring, and presents recommendations through an interactive dashboard.
 
 ### Key Features
